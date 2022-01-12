@@ -1,0 +1,8 @@
+public class FirstCode {
+    public static void main(String [] args){
+        System.out.println("Hello World!!!");
+        System.out.println("Hello Java");
+        System.out.println("My Name is CHANDAN KARMAKAR");
+        System.out.println("This is my 1st code");
+    }
+}
