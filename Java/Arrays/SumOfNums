@@ -15,3 +15,14 @@ public class SumOfNum {
         System.out.println("The sum of the Array is : "+sum);
     }
 }
+
+/*
+ USING FOR-EACH LOOP
+ 
+ float sum=o;
+ for(float elements : num){ //elements is user defined
+ sum=sum+elements;
+ }
+ System.out.println("The sum of the Array is : "+sum);
+
+*/
